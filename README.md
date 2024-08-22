@@ -1,2 +1,2 @@
-### @Sudfish 
+### @sudfish 
 Making what excites ⌨️ 
